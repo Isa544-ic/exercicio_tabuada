@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(170, 8, 8);
+
+}
+
+h1{
+    text-align: center;
+    background-color:rgb(117, 80, 80);
+    color: rgb(0, 0, 0);
+}
+footer{
+    color: rgb(56, 6, 6);
+    font-style: normal;
+   
+}
+
+section{
+    background: rgb(117, 80, 80);
+    padding: auto;
+    width: 20%;
+    margin: auto;
+    
+}
+
+input{
+    border-radius: 15px;
+    border: 1.5px solid #ccc;
+}
